@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazadService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ef03baa4aaae497cf8f65839aa2051690a455d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66f654f20f4d1800eedc56af8268c91ba3f43166")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazadService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazadService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
