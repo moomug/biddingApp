@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Backend/">
+    <Project Path="Backend/MazadService/MazadService.csproj" />
+  </Folder>
+</Solution>
