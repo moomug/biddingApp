@@ -1,18 +1,12 @@
-# .NET Build Artifacts
 bin/
 obj/
-
-# Visual Studio & VS Code
 .vs/
 .vscode/
+.tools/
+tmp/
+output/
 *.user
-*.userosscache
-*.sln.docstates
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Other temporary files
 *.log
-*.tmp
+.env
+.env.*
+!.env.example
